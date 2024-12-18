@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/moveit_resources-release
+release_repo_url: git@github.com:revyos-ros/moveit_resources-release.git
 tracks:
   foxy:
     actions:
