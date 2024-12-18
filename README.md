@@ -1,3 +1,33 @@
+## moveit_resources (jazzy) - 3.1.0-1
+
+The packages in the `moveit_resources` repository were released into the `jazzy` distro by running `/tmp/venv/bin/bloom-release -r jazzy moveit_resources --override-release-repository-push-url git@github.com:revyos-ros/moveit_resources-release.git` on `Wed, 18 Dec 2024 11:24:59 -0000`
+
+These packages were released:
+- `dual_arm_panda_moveit_config`
+- `moveit_resources`
+- `moveit_resources_fanuc_description`
+- `moveit_resources_fanuc_moveit_config`
+- `moveit_resources_panda_description`
+- `moveit_resources_panda_moveit_config`
+- `moveit_resources_pr2_description`
+
+Version of package(s) in repository `moveit_resources`:
+
+- upstream repository: https://github.com/ros-planning/moveit_resources.git
+- release repository: https://github.com/revyos-ros/moveit_resources-release.git
+- rosdistro version: `3.1.0-1`
+- old version: `3.0.0-4`
+- new version: `3.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## moveit_resources (jazzy) - 3.0.0-4
 
 The packages in the `moveit_resources` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy moveit_resources --override-release-repository-push-url git@github.com:revyos-ros/moveit_resources-release` on `Mon, 24 Jun 2024 13:25:26 -0000`
